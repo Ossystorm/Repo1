@@ -1,0 +1,12 @@
+COMMANDS:
+git add : .is all or can be file by file
+git commit
+git push
+git restore filename
+git restore --staged filename
+git log : shows history of files commited
+git status : displays current status of files to be added
+
+---------------------------------------------------------------------------------------------------------------------------------------
+FILES:
+.gitignore : folder containing files that will never be added
